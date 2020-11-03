@@ -32,4 +32,13 @@ public class WeatherApiRestController {
 		
 		
 	}
+	
+	@RequestMapping(value="/erase", method = RequestMethod.POST)
+	public void findAllWeatherDataByDate(@RequestParam(value = "start") java.util.Date startDate, 
+			@RequestParam(value = "end") java.util.Date endDate,@RequestParam(value = "lat") String latitude,
+			@RequestParam(value = "lon") java.util.Date longitude) {
+		
+		
+		
+	}
 }
