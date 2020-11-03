@@ -1,4 +1,4 @@
-package com.nishant.customsorting;
+package com.nishant.test;
 
 import java.util.Comparator;
 

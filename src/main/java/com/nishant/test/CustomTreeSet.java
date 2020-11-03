@@ -16,7 +16,7 @@ public class CustomTreeSet {
 	public boolean add(Object o) {
 		
 		//if DS contains o , replace it with existing
-		if()
+		//if()
 		
 		return false;
 		

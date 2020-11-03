@@ -1,4 +1,4 @@
-package com.nishant.dsalgo;
+package com.nishant.test;
 
 import java.util.ArrayDeque;
 import java.util.Stack;

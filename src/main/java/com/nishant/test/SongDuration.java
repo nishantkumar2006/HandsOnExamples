@@ -1,4 +1,4 @@
-package com.nishant.amazon;
+package com.nishant.test;
 
 import java.util.ArrayList;
 import java.util.List;
